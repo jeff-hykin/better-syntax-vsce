@@ -4,14 +4,14 @@ Because there's a whole lot of probably-could-be-built-in features that you can 
 
 # What are examples of some automatic features
 
-The ability to open PDF's (yeah thats not built in)
-File path auto-completion
-Syntax highlighting colors for basically every language
-Displays who made the last git change for the current line in your current file
-Color-numbers (hex colors or RGB) are highlighted as their actual color
-If you enable the built-in `renderWhitespace`, you'll see spaces, tabs, and newlines instead of only spaces and tabs
-Auto-complete for C++
-Auto-complete for Python
+- The ability to open PDF's (yeah thats not built in)
+- File path auto-completion
+- Syntax highlighting colors for basically every language
+- Displays who made the last git change for the current line in your current file
+- Color-numbers (hex colors or RGB) are highlighted as their actual color
+- If you enable the built-in `renderWhitespace`, you'll see spaces, tabs, and newlines instead of only spaces and tabs
+- Auto-complete for C++
+- Auto-complete for Python
 
 # What are examples of useful commands
 
