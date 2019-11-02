@@ -2,7 +2,7 @@
     "name": "swe-starter-pack",
     "displayName": "SWE Starter Pack",
     "description": "Everything you need to get starting as a software engineer",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": {
         "name": "Jeff Hykin"
     },
@@ -54,7 +54,6 @@
         "jeff-hykin.better-dockerfile-syntax",
         "jeff-hykin.better-perl-syntax",
         "jeff-hykin.better-shellscript-syntax",
-        "julialang.language-julia",
         "justusadam.language-haskell",
         "magicstack.MagicPython",
         "robinbentley.sass-indented",
