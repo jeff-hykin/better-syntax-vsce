@@ -19,3 +19,37 @@ Open and run basically any file with `CMD/CTRL + R`, thanks to code-runner
 Compare a file between two git branches with `GitHD: View Branch Diff`, thanks to GitHD
 Scroll through file history with the GitLens side-bar, thanks to GitLens
 Open the current file on GitHub.com with the `Open in GitHub` command, thanks to open-in-github
+
+
+# What are some useful settings?
+
+```json
+{
+    // general
+    "extensions.ignoreRecommendations": true,
+    "extensions.ignoreRecommendations": true,
+    "editor.quickSuggestionsDelay": 0,
+    "zenMode.centerLayout": false,
+    
+    // code runner
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.ignoreSelection": true,
+    
+    // git
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    
+    // fancy visuals
+    "editor.cursorSmoothCaretAnimation" : true,
+    "editor.cursorBlinking": "expand",
+    "editor.smoothScrolling": true,
+    "editor.fontLigatures": true,
+    "terminal.integrated.rendererType": "dom",
+    
+    // likely but may not always want
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.find.seedSearchStringFromSelection": false,
+} 
+```
