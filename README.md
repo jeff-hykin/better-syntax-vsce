@@ -1,55 +1,11 @@
 # Why would I want this?
 
-Because there's a whole lot of probably-could-be-built-in features that you can get with one install.
+Because you like having the latest syntax highlighing for every language, but don't want to manually install (and keep up with) which is the latest for each language. Note this is pure syntax highlighting, and bulky language packages (like Markdown All in one, Julia Language Support, Latex Workshop, etc) are not included even.
 
-# What are examples of some automatic features
+# Do I need to enable this?
 
-- The ability to open PDF's (yeah thats not built in)
-- File path auto-completion
-- Syntax highlighting colors for basically every language
-- Displays who made the last git change for the current line in your current file
-- Color-numbers (hex colors or RGB) are highlighted as their actual color
-- If you enable the built-in `renderWhitespace`, you'll see spaces, tabs, and newlines instead of only spaces and tabs
-- Auto-complete for C++
-- Auto-complete for Python
+Changes should be applied automatically as soon as you install.
 
-# What are examples of useful commands
+# Created Your Own Syntax (or know of a better one)?
 
-Open and run basically any file with `CMD/CTRL + R`, thanks to code-runner
-Compare a file between two git branches with `GitHD: View Branch Diff`, thanks to GitHD
-Scroll through file history with the GitLens side-bar, thanks to GitLens
-Open the current file on GitHub.com with the `Open in GitHub` command, thanks to open-in-github
-
-
-# What are some useful settings?
-
-```json
-{
-    // general
-    "extensions.ignoreRecommendations": true,
-    "extensions.ignoreRecommendations": true,
-    "editor.quickSuggestionsDelay": 0,
-    "zenMode.centerLayout": false,
-    
-    // code runner
-    "code-runner.runInTerminal": true,
-    "code-runner.clearPreviousOutput": true,
-    "code-runner.ignoreSelection": true,
-    
-    // git
-    "git.autofetch": true,
-    "git.confirmSync": false,
-    "git.enableSmartCommit": true,
-    
-    // fancy visuals
-    "editor.cursorSmoothCaretAnimation" : true,
-    "editor.cursorBlinking": "expand",
-    "editor.smoothScrolling": true,
-    "editor.fontLigatures": true,
-    "terminal.integrated.rendererType": "dom",
-    
-    // likely but may not always want
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.find.seedSearchStringFromSelection": false,
-} 
-```
+Complain on here! (make a new issue) and I'll add/update the extension.
