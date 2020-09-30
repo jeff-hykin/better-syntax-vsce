@@ -2,7 +2,7 @@
     "name": "better-syntax",
     "displayName": "Better Syntax",
     "description": "Megapack of all the latest syntax highlighting",
-    "version": "1.0.12",
+    "version": "1.0.13",
     "author": {
         "name": "Jeff Hykin"
     },
@@ -15,7 +15,13 @@
         "url": "git+https://github.com/jeff-hykin/better-syntax-vsce.git"
     },
     "icon": "icon.png",
-    "keywords": [],
+    "keywords": [
+        "syntax",
+        "textmate",
+        "highlighting",
+        "coloring",
+        "color"
+    ],
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/jeff-hykin/better-syntax-vsce/issues"
