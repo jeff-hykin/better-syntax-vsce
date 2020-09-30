@@ -8,4 +8,4 @@ Changes should be applied automatically as soon as you install.
 
 # Created Your Own Syntax (or know of a better one)?
 
-Complain on here! (make a new issue) and I'll add/update the extension.
+Complain on [here](https://github.com/jeff-hykin/better-syntax-vsce/issues)! (make a new issue) and I'll add/update the extension.
