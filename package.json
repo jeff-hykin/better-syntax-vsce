@@ -2,7 +2,7 @@
     "name": "better-syntax",
     "displayName": "Better Syntax",
     "description": "Megapack of all the latest syntax highlighting",
-    "version": "1.0.13",
+    "version": "1.1.13",
     "author": {
         "name": "Jeff Hykin"
     },
@@ -57,6 +57,8 @@
         "oscarcs.dart-syntax-highlighting-only",
         "idleberg.applescript",
         "mechatroner.rainbow-csv",
-        "bbenoist.nix"
+        "bbenoist.nix",
+        "mariomatheu.syntax-project-pbxproj",
+        "dustypomerleau.rust-syntax"
     ]
 }
