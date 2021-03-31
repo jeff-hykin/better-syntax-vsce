@@ -2,7 +2,7 @@
     "name": "better-syntax",
     "displayName": "Better Syntax",
     "description": "Megapack of all the latest syntax highlighting",
-    "version": "1.1.13",
+    "version": "2.0.0",
     "author": {
         "name": "Jeff Hykin"
     },
@@ -59,6 +59,25 @@
         "mechatroner.rainbow-csv",
         "bbenoist.nix",
         "mariomatheu.syntax-project-pbxproj",
-        "dustypomerleau.rust-syntax"
+        "dustypomerleau.rust-syntax",
+        "alefragnani.pascal",
+        "alessandrodelsole.ada",
+        "bierner.lit-html",
+        "boyswan.glsl-literal",
+        "devkir.elixir-syntax-vscode",
+        "dmitry-korobchenko.prototxt",
+        "geforcelegend.vscode-glsl",
+        "guyskk.language-cython",
+        "jep-a.lua-plus",
+        "kennethceyer.io",
+        "gimly81.fortran",
+        "ldez.ignore-files",
+        "mattn.lisp",
+        "rebornix.prolog",
+        "syler.sass-indented",
+        "toasty-technologies.octave",
+        "wingrunr21.vscode-ruby",
+        "xshrim.txt-syntax",
+        "yuce.erlang-otp"
     ]
 }
