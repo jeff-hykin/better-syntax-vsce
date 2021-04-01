@@ -2,7 +2,7 @@
     "name": "better-syntax",
     "displayName": "Better Syntax",
     "description": "Megapack of all the latest syntax highlighting",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "author": {
         "name": "Jeff Hykin"
     },
@@ -60,7 +60,6 @@
         "bbenoist.nix",
         "mariomatheu.syntax-project-pbxproj",
         "dustypomerleau.rust-syntax",
-        "alefragnani.pascal",
         "alessandrodelsole.ada",
         "bierner.lit-html",
         "boyswan.glsl-literal",
