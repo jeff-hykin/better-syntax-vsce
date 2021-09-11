@@ -2,7 +2,7 @@
     "name": "better-syntax",
     "displayName": "Better Syntax",
     "description": "Megapack of all the latest syntax highlighting",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "author": {
         "name": "Jeff Hykin"
     },
@@ -37,6 +37,8 @@
         "bungcip.better-toml",
         "jeff-hykin.better-c-syntax",
         "jeff-hykin.better-cpp-syntax",
+        "jeff-hykin.better-objc-syntax",
+        "jeff-hykin.better-objcpp-syntax",
         "jeff-hykin.better-dockerfile-syntax",
         "jeff-hykin.better-perl-syntax",
         "jeff-hykin.better-go-syntax",
