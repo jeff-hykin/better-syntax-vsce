@@ -35,6 +35,7 @@
     ],
     "extensionPack": [
         "bungcip.better-toml",
+        "radium-v.better-less",
         "jeff-hykin.better-c-syntax",
         "jeff-hykin.better-cpp-syntax",
         "jeff-hykin.better-objc-syntax",
