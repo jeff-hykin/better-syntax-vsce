@@ -2,7 +2,7 @@
     "name": "better-syntax",
     "displayName": "Better Syntax",
     "description": "Megapack of all the latest syntax highlighting",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "author": {
         "name": "Jeff Hykin"
     },
@@ -34,7 +34,8 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "bierner.comment-tagged-templates",
+        "jeff-hykin.better-js-syntax",
+        "colton.inline-html",
         "bungcip.better-toml",
         "radium-v.better-less",
         "jeff-hykin.better-c-syntax",
