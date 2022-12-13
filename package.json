@@ -2,7 +2,7 @@
     "name": "better-syntax",
     "displayName": "Better Syntax",
     "description": "Megapack of all the latest syntax highlighting",
-    "version": "2.0.5",
+    "version": "2.0.6",
     "author": {
         "name": "Jeff Hykin"
     },
@@ -34,6 +34,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "redcmd.tmlanguage-syntax-highlighter",
         "jeff-hykin.better-js-syntax",
         "colton.inline-html",
         "bungcip.better-toml",
