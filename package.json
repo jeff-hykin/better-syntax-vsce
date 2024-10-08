@@ -27,7 +27,7 @@
         "url": "https://github.com/jeff-hykin/better-syntax-vsce/issues"
     },
     "homepage": "https://github.com/jeff-hykin/better-syntax-vsce#readme",
-        "engines": {
+    "engines": {
         "vscode": "^1.39.0"
     },
     "categories": [
