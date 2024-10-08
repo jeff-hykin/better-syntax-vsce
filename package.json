@@ -2,7 +2,7 @@
     "name": "better-syntax",
     "displayName": "Better Syntax",
     "description": "Megapack of all the latest syntax highlighting",
-    "version": "2.0.7",
+    "version": "2.1.0",
     "author": {
         "name": "Jeff Hykin"
     },
@@ -83,6 +83,7 @@
         "syler.sass-indented",
         "toasty-technologies.octave",
         "wingrunr21.vscode-ruby",
+        "FredrikBakke.agda-syntax",
         "yuce.erlang-otp"
     ]
 }
